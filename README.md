@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU2emJ4d280cG1xOHZtMW00dTlhYno5Y2EzMWwyazh3ZHhidDVqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/Uaxj062PavgqZRhVkS/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href = "https://t.me/Ilnarq">
+  <a href = "https://t.me/yalil">
     <img src = "https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
 </div>
@@ -16,11 +16,11 @@
   
 - :man_technologist: Всем привет! Я начинающий Data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   
-- :telescope: Я учу анализ данных и машинное обучение
+- :telescope: Заканчиваю магистратуру в направлении математика и компьютерные науки. Занимаюсь классическим машинным обучением и компьютерным зрением.
   
 - :zap: В свободное время занимаюсь спортом и прокачиванием своих навыков
   
-- :mailbox:Вы можете написать мне в телеграм: [![Telegram Badge](https://img.shields.io/badge/Ilnarq-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ilnarq)
+- :mailbox:Вы можете написать мне в телеграм: [![Telegram Badge](https://img.shields.io/badge/Ilnarq-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yalil)
 ### :hammer_and_wrench: Языки программирования и модули :
 
 <div> 

@@ -53,7 +53,7 @@ The project includes:
 - Model evaluation and comparison
 - Video processing
 
-🔗 **[View project →](YOUR_SEGMENTATION_PROJECT_LINK)**
+🔗 **[View project →](https://github.com/qilnarq/Human-Semantic-Segmentation-Using-Deep-Learning)**
 
 ---
 

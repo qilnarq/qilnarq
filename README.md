@@ -1,39 +1,132 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU2emJ4d280cG1xOHZtMW00dTlhYno5Y2EzMWwyazh3ZHhidDVqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/Uaxj062PavgqZRhVkS/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href = "https://t.me/yalil">
-    <img src = "https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-    </a>
-</div>
-<div id="badges" align="center">
-<img src = "https://komarev.com/ghpvc/?username=qilnarq&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Привет, меня зовут Ильнар
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNyam11dGg5a2I5cW5vdnlhcnR1YXI3MjlvMmdoMmtjZzN0cmlydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px"/>
-</h1>
-<div/>
-  
-- :man_technologist: Всем привет! Я начинающий Data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  
-- :telescope: Заканчиваю магистратуру в направлении математика и компьютерные науки. Занимаюсь классическим машинным обучением и компьютерным зрением.
-  
-- :zap: В свободное время занимаюсь спортом и прокачиванием своих навыков
-  
-- :mailbox:Вы можете написать мне в телеграм: [![Telegram Badge](https://img.shields.io/badge/Ilnarq-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yalil)
-### :hammer_and_wrench: Языки программирования и модули :
+# Hi, I'm Ilnar Yalilov 👋
 
-<div> 
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>
-</div>
+### MSc Student in Statistical Methods in Data Science
 
-### :fire: Моя статистика :
-[![GitHub Streak](https://streak-stats.demolab.com?user=qilnarq&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qilnarq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+I am a Master's student at **Kazan Federal University**, specializing in
+**Statistical Methods in Data Science**.
+
+My interests lie at the intersection of **statistics, machine learning,
+computer vision, and biomedical applications of AI**.
+
+I am currently completing my Master's degree and plan to pursue a
+**PhD in 2027**.
+
+---
+
+## 🔬 Research Interests
+
+- 🤖 Machine Learning & Deep Learning
+- 📊 Statistical Learning & Data Science
+- 👁️ Computer Vision
+- 🧬 Bioinformatics & Biological Data Analysis
+- 🏥 Biomedical AI
+- 📈 Statistical Methods in Biology and Medicine
+
+---
+
+## 🚀 Projects
+
+### 🧬 Biological Data & Machine Learning
+
+A project exploring the application of statistical and machine learning
+methods to biological sequence data.
+
+The project includes data analysis, feature engineering, machine learning,
+and deep learning approaches for studying RNA-related data.
+
+🔗 **[View project →](YOUR_RNA_PROJECT_LINK)**
+
+---
+
+### 👁️ Computer Vision & Image Segmentation
+
+My Master's project focuses on applying deep learning methods to
+**human image segmentation**.
+
+The project includes:
+
+- Custom dataset creation
+- Manual image annotation
+- Data preprocessing and augmentation
+- Transfer learning
+- Semantic segmentation
+- Model evaluation and comparison
+- Video processing
+
+🔗 **[View project →](YOUR_SEGMENTATION_PROJECT_LINK)**
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming & Data Science**
+
+`Python` · `SQL` · `NumPy` · `Pandas` · `Scikit-learn`
+
+**Machine Learning**
+
+`PyTorch` · `LightGBM` · `Deep Learning` · `Statistical Learning`
+
+**Computer Vision**
+
+`Computer Vision` · `Semantic Segmentation` · `OpenCV` · `CVAT`
+
+**Tools**
+
+`Git` · `GitHub` · `Jupyter Notebook`
+
+---
+
+## 🎓 Education
+
+**Kazan Federal University**  
+MSc in Statistical Methods in Data Science  
+2025 – 2027
+
+**Kazan State Power Engineering University**  
+BSc in Electrical Power Engineering and Electrical Engineering  
+2021 – 2025
+
+---
+
+## 💡 About My Research Interests
+
+I am interested in developing and applying statistical and machine learning
+methods to complex real-world problems, particularly in **biology, medicine,
+and computer vision**.
+
+I am especially interested in research combining:
+
+**Statistics → Machine Learning → Biological / Biomedical Data**
+
+and
+
+**Computer Vision → Deep Learning → Biomedical Applications**
+
+---
+
+## 📜 Intellectual Property
+
+**Database of Spatial-Geometric and Morphometric Characteristics of Human
+Body Support Structures**
+
+State Registration No. **2026624089**, 2026.
+
+Co-author.
+
+---
+
+## 📫 Contact
+
+📧 **Email:** ilnar6612@gmail.com
+
+🔗 **GitHub:** https://github.com/qilnarq
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/ильнар-ялилов-a45507416/
+
+---
+
+### Languages
+
+🇷🇺 Russian — Native  
+🇬🇧 English — B2

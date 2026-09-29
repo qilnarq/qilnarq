@@ -34,7 +34,7 @@ methods to biological sequence data.
 The project includes data analysis, feature engineering, machine learning,
 and deep learning approaches for studying RNA-related data.
 
-🔗 **[View project →](YOUR_RNA_PROJECT_LINK)**
+🔗 **[View project →](https://github.com/qilnarq/covid19_rna_analysis)**
 
 ---
 
